@@ -1,0 +1,15 @@
+"status.on" = "合上盖子也保持唤醒";
+"status.off" = "照常进入睡眠";
+"toggle.title" = "合盖时不睡眠";
+"footer.openAtLogin" = "登录时打开";
+"footer.quit" = "退出";
+"note.lowBattery" = "已关闭：电池电量为 %d%%，Mac 可以重新进入睡眠。";
+"note.overheating" = "已关闭：Mac 过热，请让它冷却一下。";
+"note.setupFailed" = "无法安装辅助程序：%@";
+"note.commandFailed" = "macOS 未接受此更改，请重试。";
+"setup.prompt" = "Sleepless 需要一次性授权才能更改睡眠设置。";
+"update.available" = "新版本 %@ 已发布";
+"update.get" = "下载";
+"control.name" = "Sleepless";
+"control.description" = "合上盖子时让 Mac 保持唤醒。";
+"control.title" = "保持唤醒";

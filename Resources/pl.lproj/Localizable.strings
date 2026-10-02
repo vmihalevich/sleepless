@@ -1,0 +1,15 @@
+"status.on" = "Nie zaśnie przy zamkniętej pokrywie";
+"status.off" = "Usypia jak zwykle";
+"toggle.title" = "Nie usypiaj po zamknięciu pokrywy";
+"footer.openAtLogin" = "Otwieraj przy logowaniu";
+"footer.quit" = "Zakończ";
+"note.lowBattery" = "Wyłączono: bateria na poziomie %d%%. Mac może znów zasnąć.";
+"note.overheating" = "Wyłączono: Mac się przegrzewa. Pozwól mu ostygnąć.";
+"note.setupFailed" = "Nie udało się zainstalować pomocnika: %@";
+"note.commandFailed" = "macOS nie przyjął zmiany. Spróbuj ponownie.";
+"setup.prompt" = "Sleepless potrzebuje jednorazowej zgody na zmianę ustawienia usypiania.";
+"update.available" = "Dostępna jest wersja %@";
+"update.get" = "Pobierz";
+"control.name" = "Sleepless";
+"control.description" = "Mac nie usypia przy zamkniętej pokrywie.";
+"control.title" = "Nie usypiaj";

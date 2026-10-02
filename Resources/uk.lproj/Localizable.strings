@@ -1,0 +1,15 @@
+"status.on" = "Не засне із закритою кришкою";
+"status.off" = "Засинає як завжди";
+"toggle.title" = "Не спати при закритій кришці";
+"footer.openAtLogin" = "Відкривати під час входу";
+"footer.quit" = "Завершити";
+"note.lowBattery" = "Вимкнено: заряд %d%%. Mac знову може заснути.";
+"note.overheating" = "Вимкнено: Mac перегрівся. Дайте йому охолонути.";
+"note.setupFailed" = "Не вдалося встановити помічник: %@";
+"note.commandFailed" = "macOS не прийняла зміну. Спробуйте ще раз.";
+"setup.prompt" = "Sleepless потрібен одноразовий дозвіл, щоб змінювати налаштування сну.";
+"update.available" = "Доступна версія %@";
+"update.get" = "Завантажити";
+"control.name" = "Sleepless";
+"control.description" = "Mac не засинає із закритою кришкою.";
+"control.title" = "Не спати";

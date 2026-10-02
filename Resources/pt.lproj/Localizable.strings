@@ -1,0 +1,15 @@
+"status.on" = "Continua ativo com a tampa fechada";
+"status.off" = "Entra em repouso normalmente";
+"toggle.title" = "Sem repouso com a tampa fechada";
+"footer.openAtLogin" = "Abrir ao iniciar sessão";
+"footer.quit" = "Encerrar";
+"note.lowBattery" = "Desativado: bateria em %d%%. O Mac pode entrar em repouso de novo.";
+"note.overheating" = "Desativado: o Mac está superaquecendo. Deixe-o esfriar.";
+"note.setupFailed" = "Não foi possível instalar o assistente: %@";
+"note.commandFailed" = "O macOS não aceitou a alteração. Tente novamente.";
+"setup.prompt" = "O Sleepless precisa de uma permissão única para alterar o ajuste de repouso.";
+"update.available" = "A versão %@ está disponível";
+"update.get" = "Baixar";
+"control.name" = "Sleepless";
+"control.description" = "Mantém o Mac ativo com a tampa fechada.";
+"control.title" = "Sem repouso";

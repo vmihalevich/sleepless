@@ -1,0 +1,15 @@
+"status.on" = "Bleibt bei geschlossenem Deckel wach";
+"status.off" = "Schläft wie gewohnt";
+"toggle.title" = "Bei geschlossenem Deckel nicht schlafen";
+"footer.openAtLogin" = "Bei der Anmeldung öffnen";
+"footer.quit" = "Beenden";
+"note.lowBattery" = "Ausgeschaltet: Akku bei %d %%. Der Mac darf wieder schlafen.";
+"note.overheating" = "Ausgeschaltet: Der Mac ist überhitzt. Lass ihn abkühlen.";
+"note.setupFailed" = "Das Hilfsprogramm konnte nicht installiert werden: %@";
+"note.commandFailed" = "macOS hat die Änderung nicht übernommen. Versuch es noch einmal.";
+"setup.prompt" = "Sleepless benötigt einmalig deine Erlaubnis, um die Ruhezustand-Einstellung zu ändern.";
+"update.available" = "Version %@ ist verfügbar";
+"update.get" = "Laden";
+"control.name" = "Sleepless";
+"control.description" = "Hält deinen Mac bei geschlossenem Deckel wach.";
+"control.title" = "Wach bleiben";

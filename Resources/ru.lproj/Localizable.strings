@@ -1,0 +1,15 @@
+"status.on" = "Не уснёт с закрытой крышкой";
+"status.off" = "Засыпает как обычно";
+"toggle.title" = "Не спать при закрытой крышке";
+"footer.openAtLogin" = "Запускать при входе";
+"footer.quit" = "Завершить";
+"note.lowBattery" = "Выключено: заряд %d%%. Mac снова может уснуть.";
+"note.overheating" = "Выключено: Mac перегрелся. Дайте ему остыть.";
+"note.setupFailed" = "Не удалось установить помощник: %@";
+"note.commandFailed" = "macOS не приняла изменение. Попробуйте ещё раз.";
+"setup.prompt" = "Sleepless нужно разовое разрешение, чтобы менять настройку сна.";
+"update.available" = "Доступна версия %@";
+"update.get" = "Скачать";
+"control.name" = "Sleepless";
+"control.description" = "Mac не засыпает при закрытой крышке.";
+"control.title" = "Не спать";

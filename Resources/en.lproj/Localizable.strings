@@ -1,0 +1,15 @@
+"status.on" = "Stays awake with the lid closed";
+"status.off" = "Sleeps as usual";
+"toggle.title" = "Don't sleep when the lid is closed";
+"footer.openAtLogin" = "Open at login";
+"footer.quit" = "Quit";
+"note.lowBattery" = "Turned off: battery is at %d%%. The Mac can sleep again.";
+"note.overheating" = "Turned off: the Mac is overheating. Let it cool down.";
+"note.setupFailed" = "Couldn't install the helper: %@";
+"note.commandFailed" = "macOS didn't accept the change. Try again.";
+"setup.prompt" = "Sleepless needs one-time permission to change the sleep setting.";
+"update.available" = "Version %@ is available";
+"update.get" = "Download";
+"control.name" = "Sleepless";
+"control.description" = "Keeps your Mac awake with the lid closed.";
+"control.title" = "Stay awake";

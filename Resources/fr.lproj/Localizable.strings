@@ -1,0 +1,15 @@
+"status.on" = "Reste éveillé écran fermé";
+"status.off" = "Se met en veille normalement";
+"toggle.title" = "Pas de veille écran fermé";
+"footer.openAtLogin" = "Ouvrir à la connexion";
+"footer.quit" = "Quitter";
+"note.lowBattery" = "Désactivé : batterie à %d %%. Le Mac peut de nouveau se mettre en veille.";
+"note.overheating" = "Désactivé : le Mac surchauffe. Laissez-le refroidir.";
+"note.setupFailed" = "Impossible d’installer l’assistant : %@";
+"note.commandFailed" = "macOS n’a pas accepté la modification. Réessayez.";
+"setup.prompt" = "Sleepless a besoin d’une autorisation unique pour modifier le réglage de veille.";
+"update.available" = "La version %@ est disponible";
+"update.get" = "Télécharger";
+"control.name" = "Sleepless";
+"control.description" = "Garde votre Mac éveillé écran fermé.";
+"control.title" = "Rester éveillé";

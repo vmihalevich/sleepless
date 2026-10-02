@@ -1,0 +1,15 @@
+"status.on" = "Sigue activo con la tapa cerrada";
+"status.off" = "Entra en reposo como siempre";
+"toggle.title" = "Sin reposo con la tapa cerrada";
+"footer.openAtLogin" = "Abrir al iniciar sesión";
+"footer.quit" = "Salir";
+"note.lowBattery" = "Desactivado: batería al %d %%. El Mac puede volver a entrar en reposo.";
+"note.overheating" = "Desactivado: el Mac se está sobrecalentando. Deja que se enfríe.";
+"note.setupFailed" = "No se pudo instalar el asistente: %@";
+"note.commandFailed" = "macOS no aceptó el cambio. Inténtalo de nuevo.";
+"setup.prompt" = "Sleepless necesita un permiso único para cambiar el ajuste de reposo.";
+"update.available" = "La versión %@ está disponible";
+"update.get" = "Descargar";
+"control.name" = "Sleepless";
+"control.description" = "Mantiene tu Mac activo con la tapa cerrada.";
+"control.title" = "Sin reposo";

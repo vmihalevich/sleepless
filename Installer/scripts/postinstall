@@ -1,0 +1,11 @@
+#!/bin/sh
+set -eu
+
+/bin/sh "$2/Applications/Sleepless.app/Contents/Resources/helper-install.sh"
+
+user=$(stat -f %Su /dev/console)
+if [ -n "$user" ] && [ "$user" != "root" ]; then
+	uid=$(id -u "$user")
+	launchctl asuser "$uid" sudo -u "$user" open -a "$2/Applications/Sleepless.app" || true
+fi
+exit 0

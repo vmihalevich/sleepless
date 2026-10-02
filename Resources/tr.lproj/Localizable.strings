@@ -1,0 +1,15 @@
+"status.on" = "Kapak kapalıyken uyanık kalır";
+"status.off" = "Her zamanki gibi uyur";
+"toggle.title" = "Kapak kapalıyken uyuma";
+"footer.openAtLogin" = "Girişte aç";
+"footer.quit" = "Çık";
+"note.lowBattery" = "Kapatıldı: pil %%%d. Mac yeniden uyuyabilir.";
+"note.overheating" = "Kapatıldı: Mac aşırı ısındı. Soğumasını bekleyin.";
+"note.setupFailed" = "Yardımcı yüklenemedi: %@";
+"note.commandFailed" = "macOS değişikliği kabul etmedi. Yeniden deneyin.";
+"setup.prompt" = "Sleepless’ın uyku ayarını değiştirmek için bir kerelik izne ihtiyacı var.";
+"update.available" = "%@ sürümü yayınlandı";
+"update.get" = "İndir";
+"control.name" = "Sleepless";
+"control.description" = "Mac’inizi kapak kapalıyken uyanık tutar.";
+"control.title" = "Uyanık kal";

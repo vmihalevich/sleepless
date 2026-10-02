@@ -1,0 +1,4 @@
+#!/bin/sh
+# A running copy restores normal sleep on quit, so it is stopped before being replaced.
+pkill -x Sleepless 2>/dev/null
+exit 0

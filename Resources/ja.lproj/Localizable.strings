@@ -1,0 +1,15 @@
+"status.on" = "ふたを閉じてもスリープしません";
+"status.off" = "通常どおりスリープします";
+"toggle.title" = "ふたを閉じてもスリープしない";
+"footer.openAtLogin" = "ログイン時に開く";
+"footer.quit" = "終了";
+"note.lowBattery" = "オフにしました：バッテリー残量 %d%%。Mac は再びスリープできます。";
+"note.overheating" = "オフにしました：Mac が過熱しています。冷ましてください。";
+"note.setupFailed" = "ヘルパーをインストールできませんでした：%@";
+"note.commandFailed" = "macOS が変更を受け付けませんでした。もう一度お試しください。";
+"setup.prompt" = "Sleepless がスリープ設定を変更するには、一度だけ許可が必要です。";
+"update.available" = "バージョン%@が利用可能です";
+"update.get" = "ダウンロード";
+"control.name" = "Sleepless";
+"control.description" = "ふたを閉じても Mac をスリープさせません。";
+"control.title" = "スリープしない";
